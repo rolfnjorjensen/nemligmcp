@@ -1,3 +1,7 @@
+> **Local security fork:** see [LOCAL.md](LOCAL.md) for the patched local setup.
+> This fork does not publish npm packages or container images; the release and
+> upstream installation instructions below are retained as upstream reference.
+
 # nemligmcp
 
 An [MCP](https://modelcontextprotocol.io) server for **nemlig.com** (Danish online
